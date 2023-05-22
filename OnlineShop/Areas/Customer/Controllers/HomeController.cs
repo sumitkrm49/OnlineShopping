@@ -13,6 +13,7 @@ using X.PagedList;
 
 namespace OnlineShop.Controllers
 {
+   // [Authorize]
     [Area("Customer")]
     
     public class HomeController : Controller
